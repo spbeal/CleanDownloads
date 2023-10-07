@@ -2,7 +2,7 @@
 
 Organizes download folder using python
 
-<div align="center">
+<div className=''>
     <ul>
     Base Design 
         <li>-Track Desktop, if a file is added, then move.</li>
