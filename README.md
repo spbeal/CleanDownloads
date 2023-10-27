@@ -4,7 +4,7 @@ Organizes download folder using python
 
 <div className=''>
     <ul>
-        <li>Track Desktop, if a file is added, then move.</li>
+        <li>Track downloads folder, if a file is added, then move.</li>
         <li>Move files.</li>
         <li>Run always in background.</li>
         <li>
